@@ -1,0 +1,4 @@
+tk
+pdfplumber
+python-docx
+pdf2docx
